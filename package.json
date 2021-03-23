@@ -21,6 +21,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
+    "format": "prettier --write \"src/**/*.{ts,tsx,css,html}\"",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
